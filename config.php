@@ -5,13 +5,6 @@ define('URL', 'http://localhost/BreakFast/');
 define('LIBS', 'libs/');
 define('MODS', 'models/');
 
-//define('DB_TYPE', 'mysql');
-//define('DB_HOST', 'mysql.hostinger.com.br');
-//define('DB_NAME', 'u374874655_break');
-//define('DB_USER', 'u374874655_break');
-//define('DB_PASS', 'breakfastbar1');
-
-
 define('DB_TYPE', 'mysql');
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'breakfast');
